@@ -1,0 +1,109 @@
+@font-face{
+    font-family: font1;
+    src: url(./Assets/Fonts/font1.woff2);
+}
+
+@font-face{
+    font-family: font2;
+    src: url(./Assets/Fonts/font2.woff2);
+}
+
+@font-face{
+    font-family: font3;
+    src: url(./Assets/Fonts/font3.woff);
+}
+
+body{
+    font-family: font1;
+}
+
+#page1{
+    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(./Assets/Images/bg1.jpg) center center/cover;
+}
+
+p{
+    font-family: font3;
+}
+
+h3{
+    font-family: font2;
+}
+
+#pic1{
+    background: url(./Assets/Images/pic1.jpg) no-repeat center center/cover;
+}
+
+#pic2{
+    background: url(./Assets/Images/pic2.jpg) no-repeat center center/cover;
+}
+
+#pic3{
+    background: url(./Assets/Images/pic3.jpg) no-repeat center center/cover;
+}
+
+#pic4{
+    background: url(./Assets/Images/pic4.jpg) no-repeat center center/cover;
+}
+
+#pic5{
+    background: url(./Assets/Images/pic5.jpg) no-repeat center center/cover;
+}
+
+#pic6{
+    background: url(./Assets/Images/pic6.jpg) no-repeat center center/cover;
+}
+
+#pic7{
+    background: url(./Assets/Images/pic7.jpg) no-repeat center center/cover;
+}
+
+#pic8{
+    background: url(./Assets/Images/pic8.jpg) no-repeat center center/cover;
+}
+
+#pic9{
+    background: url(./Assets/Images/pic9.jpg) no-repeat center center/cover;
+}
+
+#pic10{
+    background: url(./Assets/Images/pic10.jpg) no-repeat center center/cover;
+}
+
+
+#pic1:hover{
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(./Assets/Images/pic1.jpg) no-repeat center center/cover;
+}
+
+#pic2:hover{
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(./Assets/Images/pic2.jpg) no-repeat center center/cover;
+}
+
+#pic3:hover{
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(./Assets/Images/pic3.jpg) no-repeat center center/cover;
+}
+
+#pic4:hover{
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(./Assets/Images/pic4.jpg) no-repeat center center/cover;
+}
+
+#pic5:hover{
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(./Assets/Images/pic5.jpg) no-repeat center center/cover;
+}
+
+#pic6:hover{
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(./Assets/Images/pic6.jpg) no-repeat center center/cover;
+}
+
+#pic7:hover{
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(./Assets/Images/pic7.jpg) no-repeat center center/cover;
+}
+
+#pic8:hover{
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(./Assets/Images/pic8.jpg) no-repeat center center/cover;
+}
+
+#pic9:hover{
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(./Assets/Images/pic9.jpg) no-repeat center center/cover;
+}
+
+
